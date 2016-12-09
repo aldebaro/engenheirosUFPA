@@ -7,7 +7,7 @@ Os alunos de Projetos de Engenharia II da UFPA são convidados a participar.
 
 2) Cada turma de Projetos de Engenharia II deve criar um único arquivo fonte para toda a turma, em linguagem C, com o nome ufpa_projetos2_ano_mesDeInicio.c. Por exemplo, ufpa_projetos2_2016_outubro.c é o primeiro arquivo, já criado. Daí cada discente matriculado na turma deve editar o arquivo, colocando o seu nome, matricula, mantra pessoal e informando o URL do seu Lattes. Um exemplo de arquivo inicial segue abaixo:
 
-#include <stdio.h>
+\#include <stdio.h>
 int main() {
 
 	puts("Esse programa \"apresenta\" a turma de 2011, 1o semestre");
