@@ -5,7 +5,9 @@ Os alunos de Projetos de Engenharia II da UFPA são convidados a participar.
 
 1) Usando a plataforma Latttes - http://lattes.cnpq.br/ - cadastrar o seu currículo. Para terem ideia de como fica um currículo na academia de um pesquisador de renome, visualizar em http://lattes.cnpq.br/0261838076132788 o do prof. Antonio José Simões Costa, paraense, formado pela UFPA e atualmente professor da UFSC. Notem que obtive o URL acima olhando no "Endereço para acessar este CV:" mostrado no Lattes do prof. Simões. Será esse endereço que irão fornecer após terem seus currículos cadastrados. Para terem ideia de como alunos no inicio da carreira se cadastram no Lattes, vide os currículos de colegas que estão no LaPS http://www.laps.ufpa.br ou LASSE  http://www.lasse.ufpa.br, principalmente dos mais novos.
 
-2) Cada turma de Projetos de Engenharia II deve criar um único arquivo fonte para toda a turma, em linguagem C, com o nome ufpa_projetos2_ano_mesDeInicio.c. Por exemplo, ufpa_projetos2_2016_outubro.c é o primeiro arquivo, já criado. Daí cada discente matriculado na turma deve editar o arquivo, colocando o seu nome, matricula, mantra pessoal e informando o URL do seu Lattes. Um exemplo de arquivo inicial segue abaixo:
+2) Cada turma de Projetos de Engenharia II deve criar um único arquivo fonte para toda a turma, em linguagem C, com o nome ufpa_projetos2_ano_mesDeInicio.c. Por exemplo, ufpa_projetos2_2016_outubro.c é o primeiro arquivo, já criado. Daí cada discente matriculado na turma deve editar o arquivo, colocando o seu nome, matricula, mantra pessoal e informando o URL do seu Lattes. Um exemplo de arquivo inicial segue abaixo.
+
+3) Depois de baixar o arquivo .c, inserir sua contribuição, faça um "pull request" para que o administrador do repositório atualize a versão no "branch" principal e sua modificação passe a ser visível para toda a turma.
 
 \#include <stdio.h>
 int main() {
