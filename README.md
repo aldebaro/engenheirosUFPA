@@ -1,6 +1,8 @@
 # engenheirosUFPA
 Registro histórico de (futuros) engenheiros da UFPA
 
+Caso não tenha familiaridade com git e github, veja o vídeo "Git e Github para iniciantes" em https://www.youtube.com/watch?v=UMhskLXJuq4
+
 Os alunos de Projetos de Engenharia II da UFPA são convidados a participar.
 
 1) Usando a plataforma Latttes - http://lattes.cnpq.br/ - cadastrar o seu currículo. Para terem ideia de como fica um currículo na academia de um pesquisador de renome, visualizar em http://lattes.cnpq.br/0261838076132788 o do prof. Antonio José Simões Costa, paraense, formado pela UFPA e atualmente professor da UFSC. Notem que obtive o URL acima olhando no "Endereço para acessar este CV:" mostrado no Lattes do prof. Simões. Será esse endereço que irão fornecer após terem seus currículos cadastrados. Para terem ideia de como alunos no inicio da carreira se cadastram no Lattes, vide os currículos de colegas que estão no LaPS http://www.laps.ufpa.br ou LASSE  http://www.lasse.ufpa.br, principalmente dos mais novos.
