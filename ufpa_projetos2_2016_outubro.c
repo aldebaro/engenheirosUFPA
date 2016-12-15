@@ -7,4 +7,7 @@ int main() {
 
 	puts("201606840013 - Lennon R A Ribeiro - http://lattes.cnpq.br/8110350282745796\n");
 	puts("Meu mantra:  Critique um sabio e ele se tornara ainda mais sabio. Critique um tolo e ele se tornara seu inimigo\n");
+	
+	puts("201607040007 - Renan S Nascimento -  http://lattes.cnpq.br/7561331644244815\n");
+	puts("Meu mantra:  Nem todo dia pode ser bom, mas há algo bom em todos os dias\n");
 }
