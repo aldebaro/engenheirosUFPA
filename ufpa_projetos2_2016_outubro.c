@@ -11,5 +11,7 @@ int main() {
 	puts("201606840013 - Igor Pamplona Trindade - http://lattes.cnpq.br/8943208772391476\n");
 	puts("Meu mantra: Às vezes se ganha e outras se aprende\n");
 
-
+	puts("201607040008 - Rafael da Silva Castro - http://lattes.cnpq.br/7739132156169851\n");
+	puts("Meu mantra:  Melhor prevenir do que formatar.\n");
+	
 }
