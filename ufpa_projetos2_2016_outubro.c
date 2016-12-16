@@ -16,4 +16,7 @@ int main() {
 	
 	puts("201606840029 - Marcelo Henrique de Paula dos Santos - http://lattes.cnpq.br/5246664805451051\n");
 	puts("Meu mantra:  O impossível é só questão de opinião");
+	
+	puts("201607040009 - Taciano A M de Souza - http://lattes.cnpq.br/8762855144752273\n");
+  	puts("Meu mantra:  Nichts zu verzollen\n");
 }
