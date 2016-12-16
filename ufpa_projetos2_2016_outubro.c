@@ -11,4 +11,6 @@ int main() {
 	puts("201607040008 - Rafael da Silva Castro - http://lattes.cnpq.br/7739132156169851\n");
 	puts("Meu mantra:  Melhor prevenir do que formatar.\n");
 	
+	puts("201606840029 - Marcelo Henrique de Paula dos Santos - http://lattes.cnpq.br/5246664805451051\n");
+	puts("Meu mantra:  O impossível é só questão de opinião");
 }
