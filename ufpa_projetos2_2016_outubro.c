@@ -46,4 +46,7 @@ int main() {
         
 	puts("201606840008 - Janilson Alfaia da Serra -http://lattes.cnpq.br/5758869224344643 \n");
 	puts("Vi o Futuro e Fiz dele a minha Morada."
+	     
+	puts("201606840035 - Moisés Lobato Queiroz - http://lattes.cnpq.br/1059234636615212");
+	puts("Meu mantra: Nenhum sucesso na vida compensa o fracasso no lar.\n");     
 }
