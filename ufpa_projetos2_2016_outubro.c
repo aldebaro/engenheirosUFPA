@@ -40,5 +40,8 @@ int main() {
 	
 	puts("201607040009 - Taciano A M de Souza - http://lattes.cnpq.br/8762855144752273\n");
   puts("Meu mantra:  Nichts zu verzollen\n");
-  
+	
+	puts("201606840053 - Bruno Santos de Sousa - http://lattes.cnpq.br/3346015472135365\n");
+	puts("Quem não aprende com o passado está condenado a repeti-lo."
+
 }
