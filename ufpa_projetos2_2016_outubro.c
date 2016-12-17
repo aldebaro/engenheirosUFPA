@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-
+		
 	puts("Esse programa \"apresenta\" a turma de Projetos de Engenharia II iniciada em Outubro de 2016");
 	puts("Matricula - Nome - Curriculo Lattes");
 	puts("A partir daqui cada um insere suas linhas, guardando uma linha em branco:\n");
@@ -24,6 +24,6 @@ int main() {
 	puts("Meu mantra:  O impossível é só questão de opinião");
 	
 	puts("201607040009 - Taciano A M de Souza - http://lattes.cnpq.br/8762855144752273\n");
-  	puts("Meu mantra:  Nichts zu verzollen\n");
-
+  puts("Meu mantra:  Nichts zu verzollen\n");
+  
 }
