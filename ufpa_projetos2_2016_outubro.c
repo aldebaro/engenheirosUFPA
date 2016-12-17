@@ -8,6 +8,9 @@ int main() {
 	puts("201606840013 - Lennon R A Ribeiro - http://lattes.cnpq.br/8110350282745796\n");
 	puts("Meu mantra:  Critique um sabio e ele se tornara ainda mais sabio. Critique um tolo e ele se tornara seu inimigo\n");
 	
+	puts("201606840055 - Camila Novaes Silva - http://lattes.cnpq.br/8140407123291569\n");
+	puts("Meu mantra: Logic will get you from A to B. Imagination will take you everywherer.\n);
+	     
   puts("201607040001 - Amanda de F Romeiro - http://lattes.cnpq.br/0034521522986490\n");
 	puts("Meu mantra:  E ao vencedor, as batatas!\n");
 
