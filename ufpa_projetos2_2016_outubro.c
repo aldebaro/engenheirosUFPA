@@ -20,10 +20,10 @@ int main() {
 	puts("201606840055 - Camila Novaes Silva - http://lattes.cnpq.br/8140407123291569\n");
 	puts("Meu mantra: Logic will get you from A to B. Imagination will take you everywherer.\n);
 	     
-  puts("201607040001 - Amanda de F Romeiro - http://lattes.cnpq.br/0034521522986490\n");
+ 	puts("201607040001 - Amanda de F Romeiro - http://lattes.cnpq.br/0034521522986490\n");
 	puts("Meu mantra:  E ao vencedor, as batatas!\n");
 
-  puts("201606840013 - Pablo Wesley de Aguiar e Silva - http://lattes.cnpq.br/8367445627412580\n");
+ 	puts("201606840013 - Pablo Wesley de Aguiar e Silva - http://lattes.cnpq.br/8367445627412580\n");
 	puts("Meu mantra:  Aller Anfang ist schwer.\n");
 
   puts("201607040002 - Giovanni Laredo Leao - http://lattes.cnpq.br/9994036647295199n");
@@ -49,4 +49,14 @@ int main() {
 	     
 	puts("201606840071 - Felipe Vitor Souza dos Reis - \n");
 	puts("Meu mantra: Dar menos que o seu melhor é sacrificar o dom que recebeu.");
+
+  puts("201606840046 - Nicole Dinah Lima Silva -http://lattes.cnpq.br/0289801376021584 \n");
+	puts("TULIP.");
+
+  puts("201606840014 - Gustavo Moraes Vasconcelos - http://lattes.cnpq.br/6742625161066668 \n");
+	puts("Meu mantra: Tudo posso Naquele que me fortalece.");
+
+	puts("201606840035 - Moisés Lobato Queiroz - http://lattes.cnpq.br/1059234636615212");
+	puts("Meu mantra: Nenhum sucesso na vida compensa o fracasso no lar.\n");     
+
 }
