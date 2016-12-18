@@ -47,6 +47,9 @@ int main() {
 	puts("201606840008 - Janilson Alfaia da Serra -http://lattes.cnpq.br/5758869224344643 \n");
 	puts("Vi o Futuro e Fiz dele a minha Morada.");
 	     
+	puts("201606840071 - Felipe Vitor Souza dos Reis - \n");
+	puts("Meu mantra: Dar menos que o seu melhor é sacrificar o dom que recebeu.");
+
   puts("201606840046 - Nicole Dinah Lima Silva -http://lattes.cnpq.br/0289801376021584 \n");
 	puts("TULIP.");
 
