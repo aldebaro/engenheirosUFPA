@@ -68,4 +68,7 @@ int main() {
 	puts("201606840052 - Marco Antonio Valino Lima -  http://lattes.cnpq.br/8429519306432424");
 	puts("Meu mantra: Ninguém é um fracasso quem tem amigos.\n");
 
+	     
+	puts("201606840034 - Marcus Davi Oliveira Castro -  http://lattes.cnpq.br/7588463252612568 \n");
+	puts("Meu mantra: Loucura é continuar fazendo sempre a mesma coisa e esperar resultados diferentes \n");
 }
