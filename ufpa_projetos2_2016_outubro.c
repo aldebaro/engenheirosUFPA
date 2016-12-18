@@ -20,10 +20,10 @@ int main() {
 	puts("201606840055 - Camila Novaes Silva - http://lattes.cnpq.br/8140407123291569\n");
 	puts("Meu mantra: Logic will get you from A to B. Imagination will take you everywherer.\n);
 	     
-  puts("201607040001 - Amanda de F Romeiro - http://lattes.cnpq.br/0034521522986490\n");
+ 	puts("201607040001 - Amanda de F Romeiro - http://lattes.cnpq.br/0034521522986490\n");
 	puts("Meu mantra:  E ao vencedor, as batatas!\n");
 
-  puts("201606840013 - Pablo Wesley de Aguiar e Silva - http://lattes.cnpq.br/8367445627412580\n");
+ 	puts("201606840013 - Pablo Wesley de Aguiar e Silva - http://lattes.cnpq.br/8367445627412580\n");
 	puts("Meu mantra:  Aller Anfang ist schwer.\n");
 
   puts("201607040002 - Giovanni Laredo Leao - http://lattes.cnpq.br/9994036647295199n");
@@ -39,14 +39,18 @@ int main() {
 	puts("Meu mantra:  O impossível é só questão de opinião");
 	
 	puts("201607040009 - Taciano A M de Souza - http://lattes.cnpq.br/8762855144752273\n");
-  puts("Meu mantra:  Nichts zu verzollen\n");
+  	puts("Meu mantra:  Nichts zu verzollen\n");
 	
 	puts("201606840053 - Bruno Santos de Sousa - http://lattes.cnpq.br/3346015472135365\n");
 	puts("Quem não aprende com o passado está condenado a repeti-lo."
         
 	puts("201606840008 - Janilson Alfaia da Serra -http://lattes.cnpq.br/5758869224344643 \n");
 	puts("Vi o Futuro e Fiz dele a minha Morada."
-	     
+       
+	puts("201606840014 - Gustavo Moraes Vasconcelos - http://lattes.cnpq.br/6742625161066668 \n");
+	puts("Meu mantra: Tudo posso Naquele que me fortalece."
+
 	puts("201606840035 - Moisés Lobato Queiroz - http://lattes.cnpq.br/1059234636615212");
 	puts("Meu mantra: Nenhum sucesso na vida compensa o fracasso no lar.\n");     
+
 }
