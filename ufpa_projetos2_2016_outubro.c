@@ -60,8 +60,12 @@ int main() {
 	puts("Meu mantra: Tudo posso Naquele que me fortalece.");
 
 	puts("201606840035 - Moisés Lobato Queiroz - http://lattes.cnpq.br/1059234636615212");
-	puts("Meu mantra: Nenhum sucesso na vida compensa o fracasso no lar.\n");     
+	puts("Meu mantra: Nenhum sucesso na vida compensa o fracasso no lar.\n"); 
+	     
+	puts("201507040030 - Mozart Lima Malaquias Junior -  http://lattes.cnpq.br/2465983385750616");
+	puts("Meu mantra: Ad Astra et Ultra \n"); 
 	
 	puts("201606840052 - Marco Antonio Valino Lima -  http://lattes.cnpq.br/8429519306432424");
 	puts("Meu mantra: Ninguém é um fracasso quem tem amigos.\n");
+
 }
