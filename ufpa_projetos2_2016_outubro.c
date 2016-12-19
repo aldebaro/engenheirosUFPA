@@ -46,4 +46,8 @@ int main() {
         
 	puts("201606840008 - Janilson Alfaia da Serra -http://lattes.cnpq.br/5758869224344643 \n");
 	puts("Vi o Futuro e Fiz dele a minha Morada."
+	     
+	puts("201607040003 - Ana Luiza Botelho Primo - http://lattes.cnpq.br/1284271767420746 \n");
+	puts("Faça o seu melhor na condição que você tem, enquanto você não tem condições melhores para fazer melhor ainda."     
+	     
 }
