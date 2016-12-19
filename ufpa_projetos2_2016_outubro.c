@@ -78,7 +78,11 @@ int main() {
 	puts("Meu mantra: No  inicio o universo foi criado, e isso foi uma pessima ideia. \n");
 
 	puts("201607040029 - Bruno Luiz Ramos Santana - http://lattes.cnpq.br/2962209446112901 \n");
-	puts("Meu mantra: Você não pode simplesmente pular para o final, o caminho é a melhor parte. \n");     
+	puts("Meu mantra: Você não pode simplesmente pular para o final, o caminho é a melhor parte. \n"); 
+	
+	puts("201606840011 - Arissa Oliveira Niwa - http://lattes.cnpq.br/7425701933858594 \n");
+	puts("Jamais se desespere em meio as sombrias aflições de sua vida, pois das nuvens mais negras cai água límpida e fecunda.\n");
+
 
 }
 
