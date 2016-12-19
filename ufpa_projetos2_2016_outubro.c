@@ -48,11 +48,41 @@ int main() {
 	puts("Quem não aprende com o passado está condenado a repeti-lo.");
         
 	puts("201606840008 - Janilson Alfaia da Serra -http://lattes.cnpq.br/5758869224344643 \n");
-  puts("Vi o Futuro e Fiz dele a minha Morada.\n");
-     
-	puts("201607040003 - Ana Luiza Botelho Primo - http://lattes.cnpq.br/1284271767420746 \n");
-	puts("Faça o seu melhor na condição que você tem, enquanto você não tem condições melhores para fazer melhor ainda."     
+	puts("Vi o Futuro e Fiz dele a minha Morada.");
 	     
+	puts("201606840071 - Felipe Vitor Souza dos Reis - \n");
+	puts("Meu mantra: Dar menos que o seu melhor é sacrificar o dom que recebeu.");
+
+  	puts("201606840046 - Nicole Dinah Lima Silva -http://lattes.cnpq.br/0289801376021584 \n");
+	puts("TULIP.");
+
+  	puts("201606840014 - Gustavo Moraes Vasconcelos - http://lattes.cnpq.br/6742625161066668 \n");
+	puts("Meu mantra: Tudo posso Naquele que me fortalece.");
+
+	puts("201606840035 - Moisés Lobato Queiroz - http://lattes.cnpq.br/1059234636615212");
+	puts("Meu mantra: Nenhum sucesso na vida compensa o fracasso no lar.\n"); 
+	     
+	puts("201507040030 - Mozart Lima Malaquias Junior -  http://lattes.cnpq.br/2465983385750616");
+	puts("Meu mantra: Ad Astra et Ultra \n"); 
 	
+	puts("201606840052 - Marco Antonio Valino Lima -  http://lattes.cnpq.br/8429519306432424");
+	puts("Meu mantra: Ninguém é um fracasso quem tem amigos.\n");
+	     
+	puts("201606840063 - Edilson da Conceição Júnior -  https://docs.google.com/document/d/19EFb7tqHtUO82l0_3024G0lVSYjfEZB1zDsncJc3P4o \n");
+	puts("Meu mantra: Não há caminhos fáceis \n");
+		     
+	puts("201606840034 - Marcus Davi Oliveira Castro -  http://lattes.cnpq.br/7588463252612568 \n");
+	puts("Meu mantra: Loucura é continuar fazendo sempre a mesma coisa e esperar resultados diferentes \n");
+
+	puts("201606840049 - Renan Bastos de Moura - http://lattes.cnpq.br/3229555713231516 \n");
+	puts("Meu mantra: No  inicio o universo foi criado, e isso foi uma pessima ideia. \n");
+
+	puts("201607040029 - Bruno Luiz Ramos Santana - http://lattes.cnpq.br/2962209446112901 \n");
+	puts("Meu mantra: Você não pode simplesmente pular para o final, o caminho é a melhor parte. \n"); 
+	
+	puts("201606840011 - Arissa Oliveira Niwa - http://lattes.cnpq.br/7425701933858594 \n");
+	puts("Jamais se desespere em meio as sombrias aflições de sua vida, pois das nuvens mais negras cai água límpida e fecunda.\n");
+
+
 }
 
