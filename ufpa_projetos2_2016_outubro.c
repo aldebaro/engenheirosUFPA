@@ -71,4 +71,7 @@ int main() {
 	     
 	puts("201606840034 - Marcus Davi Oliveira Castro -  http://lattes.cnpq.br/7588463252612568 \n");
 	puts("Meu mantra: Loucura é continuar fazendo sempre a mesma coisa e esperar resultados diferentes \n");
+	     
+	puts("201606840049 - Renan Bastos de Moura - http://lattes.cnpq.br/3229555713231516 \n");
+	puts("Meu mantra: No  inicio o universo foi criado, e isso foi uma pessima ideia. \n");
 }
