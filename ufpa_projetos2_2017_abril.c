@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
 		
-	puts("Esse programa \"apresenta\" a turma de 2011, 1o semestre");
+	puts("Esse programa \"apresenta\" a turma de 2017, 1o semestre");
 	puts("Matricula - Nome - Curriculo Lattes");
 	puts("A partir daqui cada um insere suas linhas, guardando uma linha em branco:\n");
 
