@@ -13,5 +13,8 @@ int main() {
 
 	puts("08045440141 - Macunaima - http://lattes.cnpq.br/02618380763222788");
 	puts("Meu mantra: Pouca saúde e muita saúva, os males do Brasil são!\n");
+	
+	puts("201606840048 - Saulo Joel Oliveira Leite - http://lattes.cnpq.br/1325488199613189");
+	puts("Meu mantra: Ouça mais, fale menos, faça mais. \n");
 
 }
