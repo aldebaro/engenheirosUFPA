@@ -11,7 +11,7 @@ int main() {
 	puts("0800400141 - Sicrano de tal - http://lattes.cnpq.br/02618380761424788");
 	puts("Meu mantra: No pain, no gain.\n");
 
-	puts("08045440141 - Macunaima - http://lattes.cnpq.br/02618380763222788");
-	puts("Meu mantra: Pouca saúde e muita saúva, os males do Brasil são!\n");
+	puts("201607040023 - João Pereira Paiva - http://lattes.cnpq.br/6282346015903573");
+	puts("Meu mantra: Não venci todas as batalhas que lutei mas perdi todas que deixei de lutar\n");
 
 }
