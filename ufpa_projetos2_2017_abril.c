@@ -29,4 +29,7 @@ int main() {
 	puts("201607040013 - Yuri Chaves Mesquita da Silva - http://lattes.cnpq.br/0098644462613252");
 	puts("Meu Mantra: Não sei diferenciar teimosia de persistência, esse é meu maoir defeito e qualidade\n");
 	
+	puts("201607040020- Felipe eduardo de Souza Reis - http://lattes.cnpq.br/8316822195641028");
+	puts("Meu mantra: De tudo o que se deve guardar, guarda o teu coração.\n");
+	
 }
