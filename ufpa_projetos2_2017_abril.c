@@ -17,4 +17,6 @@ int main() {
 	puts("201607040013 - Yuri Chaves Mesquita da Silva - http://lattes.cnpq.br/0098644462613252");
 	puts("Meu Mantra: Não sei diferenciar teimosia de persistência, esse é meu maoir defeito e qualidade\n");
 	
+	puts("201606840048 - Saulo Joel Oliveira Leite - http://lattes.cnpq.br/1325488199613189");
+	puts("Meu Mantra: Ouça mais, fale menos, faça mais\n");
 }
