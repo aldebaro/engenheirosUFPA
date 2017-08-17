@@ -14,4 +14,7 @@ int main() {
 	puts("201606840075 - Daniel Saavedra dos Santos - http://lattes.cnpq.br/2279697639833103");
 	puts("Meu mantra: Odeie menos, ame mais. A vida é curta demais para não saber aproveitá-la.\n");
 	
+	puts("201607040013 - Yuri Chaves Mesquita da Silva - http://lattes.cnpq.br/0098644462613252");
+	puts("Meu Mantra: Não sei diferenciar teimosia de persistência, esse é meu maoir defeito e qualidade\n");
+	
 }
