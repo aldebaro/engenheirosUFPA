@@ -29,4 +29,7 @@ int main() {
 	puts("201607040013 - Yuri Chaves Mesquita da Silva - http://lattes.cnpq.br/0098644462613252");
 	puts("Meu Mantra: Não sei diferenciar teimosia de persistência, esse é meu maoir defeito e qualidade\n");
 	
+	puts("201506840044 - Tacio Daito Pereira Kikuchi - http://lattes.cnpq.br/0657936624738062");
+	puts("Batalhar todos os dias para se tornar uma pessoa melhor e influenciar os próximos a se tornarem pessoas melhores também: existe algo mais nobre que isso?");
+	
 }
