@@ -38,4 +38,10 @@ int main() {
 	puts("201606840076 - João Vitor Daltro Tavares Paiva -http://lattes.cnpq.br/2521023225904351");
 	puts("Meu Mantra: O jardineiro é jesus e as arvre somos noizes\n");
 	
+	puts("201606840082 - Frederico Henrique do Rosario Lopes - http://lattes.cnpq.br/1445576249370113");
+	puts("Meu Mantra: Ask yourself if what you're doing today will get you closer to where you want to be tomorrow\n");
+	
+	puts("201606840038 - Lúcio Leandro Cruz de Oliveira - http://lattes.cnpq.br/2457530273814250");
+	puts("Meu Mantra: One day, all this pain will be use to you \n");
+	
 }
