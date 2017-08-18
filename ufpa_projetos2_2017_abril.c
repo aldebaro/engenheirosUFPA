@@ -29,4 +29,7 @@ int main() {
 	puts("201607040013 - Yuri Chaves Mesquita da Silva - http://lattes.cnpq.br/0098644462613252");
 	puts("Meu Mantra: Não sei diferenciar teimosia de persistência, esse é meu maoir defeito e qualidade\n");
 	
+	puts("201606840038 - Lúcio Leandro Cruz de Oliveira - http://lattes.cnpq.br/2457530273814250");
+	puts("Meu Mantra: One day, all this pain will be use to you \n");
+	
 }
