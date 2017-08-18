@@ -13,7 +13,7 @@ int main() {
 	puts("Meu mantra: No pain, no gain.\n");
 
   	puts("201606840048 - Saulo Joel Oliveira Leite - http://lattes.cnpq.br/1325488199613189");
-	puts("Meu mantra: Ouça mais, fale menos, faça mais.\n");
+	puts("Meu Mantra: Ouça mais, fale menos, faça mais\n");
   
 	puts("201607040023 - João Pereira Paiva - http://lattes.cnpq.br/6282346015903573");
 	puts("Meu mantra: Não venci todas as batalhas que lutei mas perdi todas que deixei de lutar\n");
@@ -35,10 +35,7 @@ int main() {
 	
 	puts("201606840076 - João Vitor Daltro Tavares Paiva -http://lattes.cnpq.br/2521023225904351");
 	puts("Meu Mantra: O jardineiro é jesus e as arvre somos noizes\n");
-	
-	puts("201606840082 - Frederico Henrique do Rosario Lopes - http://lattes.cnpq.br/1445576249370113");
-	puts("Meu Mantra: Ask yourself if what you're doing today will get you closer to where you want to be tomorrow\n");
-	
+		
 	puts("201606840038 - Lúcio Leandro Cruz de Oliveira - http://lattes.cnpq.br/2457530273814250");
 	puts("Meu Mantra: One day, all this pain will be use to you \n");
 	
@@ -51,6 +48,5 @@ int main() {
   	puts("201606840091 - Leonardo Oliveira da Silva - http://lattes.cnpq.br/2813082650573455");
 	puts("Meu mantra:Com o tempo você aprende a cair com classe e a se levantar com orgulho.\n");
 	
-	puts("201606840048 - Saulo Joel Oliveira Leite - http://lattes.cnpq.br/1325488199613189");
-	puts("Meu Mantra: Ouça mais, fale menos, faça mais\n");
+	
 }
