@@ -35,4 +35,7 @@ int main() {
 	puts("201607040020- Felipe eduardo de Souza Reis - http://lattes.cnpq.br/8316822195641028");
 	puts("Meu mantra: De tudo o que se deve guardar, guarda o teu coração.\n");
 	
+	puts("201606840076 - João Vitor Daltro Tavares Paiva -http://lattes.cnpq.br/2521023225904351");
+	puts("Meu Mantra: O jardineiro é jesus e as arvre somos noizes\n");
+	
 }
