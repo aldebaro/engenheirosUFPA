@@ -2,7 +2,8 @@
 int main() {
 		
 	puts("Esse programa \"apresenta\" a turma de 2017, 1o semestre");
-	puts("Matricula - Nome - Curriculo Lattes");
+	
+  puts("Matricula - Nome - Curriculo Lattes");
 	puts("A partir daqui cada um insere suas linhas, guardando uma linha em branco:\n");
 
 	puts("0800494001 - Gonçalves Dias - http://lattes.cnpq.br/026183807613242428");
@@ -11,10 +12,7 @@ int main() {
 	puts("0800400141 - Sicrano de tal - http://lattes.cnpq.br/02618380761424788");
 	puts("Meu mantra: No pain, no gain.\n");
 
-	puts("08045440141 - Macunaima - http://lattes.cnpq.br/02618380763222788");
-	puts("Meu mantra: Pouca saúde e muita saúva, os males do Brasil são!\n");
-	
-	puts("201606840048 - Saulo Joel Oliveira Leite - http://lattes.cnpq.br/1325488199613189");
+  puts("201606840048 - Saulo Joel Oliveira Leite - http://lattes.cnpq.br/1325488199613189");
 	puts("Meu mantra: Ouça mais, fale menos, faça mais.\n");
   
 	puts("201607040023 - João Pereira Paiva - http://lattes.cnpq.br/6282346015903573");
@@ -27,9 +25,9 @@ int main() {
 	puts("Meu mantra: Odeie menos, ame mais. A vida é curta demais para não saber aproveitá-la.\n");
 	
 	puts("201607040013 - Yuri Chaves Mesquita da Silva - http://lattes.cnpq.br/0098644462613252");
-	puts("Meu Mantra: Não sei diferenciar teimosia de persistência, esse é meu maoir defeito e qualidade\n")
-	
-	puts("201606840019 - Daniel Mateus Farias Ramos - http://lattes.cnpq.br/4437538133366758");
+  puts("Meu Mantra: Não sei diferenciar teimosia de persistência, esse é meu maoir defeito e qualidade\n");
+  
+  puts("201606840019 - Daniel Mateus Farias Ramos - http://lattes.cnpq.br/4437538133366758");
 	puts("Meu Mantra: Nunca troque o que mais quer na vida por aquilo que mais quer no momento. Momentos passam, a vida continua.\n")
 	
 	puts("201607040020- Felipe eduardo de Souza Reis - http://lattes.cnpq.br/8316822195641028");
@@ -49,4 +47,8 @@ int main() {
 	
 	puts("201606840082 - Frederico Henrique do Rosario Lopes - http://lattes.cnpq.br/1445576249370113");
 	puts("Meu Mantra: Ask yourself if what you're doing today will get you closer to where you want to be tomorrow\n");
+   
+  puts("201606840091 - Leonardo Oliveira da Silva - http://lattes.cnpq.br/2813082650573455");
+	puts("Meu mantra:Com o tempo você aprende a cair com classe e a se levantar com orgulho.\n");
+	
 }
