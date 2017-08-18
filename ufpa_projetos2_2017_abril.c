@@ -44,4 +44,7 @@ int main() {
 	puts("201606840038 - Lúcio Leandro Cruz de Oliveira - http://lattes.cnpq.br/2457530273814250");
 	puts("Meu Mantra: One day, all this pain will be use to you \n");
 	
+	puts("201506840044 - Tacio Daito Pereira Kikuchi - http://lattes.cnpq.br/0657936624738062");
+	puts("Batalhar todos os dias para se tornar uma pessoa melhor e influenciar os próximos a se tornarem pessoas melhores também: existe algo mais nobre que isso?");
+	
 }
