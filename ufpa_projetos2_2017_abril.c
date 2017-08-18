@@ -51,4 +51,6 @@ int main() {
   	puts("201606840091 - Leonardo Oliveira da Silva - http://lattes.cnpq.br/2813082650573455");
 	puts("Meu mantra:Com o tempo você aprende a cair com classe e a se levantar com orgulho.\n");
 	
+	puts("201606840048 - Saulo Joel Oliveira Leite - http://lattes.cnpq.br/1325488199613189");
+	puts("Meu Mantra: Ouça mais, fale menos, faça mais\n");
 }
