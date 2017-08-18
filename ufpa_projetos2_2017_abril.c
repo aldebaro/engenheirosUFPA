@@ -29,4 +29,6 @@ int main() {
 	puts("201607040013 - Yuri Chaves Mesquita da Silva - http://lattes.cnpq.br/0098644462613252");
 	puts("Meu Mantra: Não sei diferenciar teimosia de persistência, esse é meu maoir defeito e qualidade\n");
 	
+	puts("201606840082 - Frederico Henrique do Rosario Lopes - http://lattes.cnpq.br/1445576249370113");
+	puts("Meu Mantra: Ask yourself if what you're doing today will get you closer to where you want to be tomorrow\n");
 }
