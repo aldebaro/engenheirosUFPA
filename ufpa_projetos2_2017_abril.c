@@ -47,4 +47,6 @@ int main() {
 	puts("201506840044 - Tacio Daito Pereira Kikuchi - http://lattes.cnpq.br/0657936624738062");
 	puts("Batalhar todos os dias para se tornar uma pessoa melhor e influenciar os próximos a se tornarem pessoas melhores também: existe algo mais nobre que isso?");
 	
+	puts("201606840082 - Frederico Henrique do Rosario Lopes - http://lattes.cnpq.br/1445576249370113");
+	puts("Meu Mantra: Ask yourself if what you're doing today will get you closer to where you want to be tomorrow\n");
 }
