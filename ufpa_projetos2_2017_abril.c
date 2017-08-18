@@ -27,7 +27,10 @@ int main() {
 	puts("Meu mantra: Odeie menos, ame mais. A vida é curta demais para não saber aproveitá-la.\n");
 	
 	puts("201607040013 - Yuri Chaves Mesquita da Silva - http://lattes.cnpq.br/0098644462613252");
-	puts("Meu Mantra: Não sei diferenciar teimosia de persistência, esse é meu maoir defeito e qualidade\n");
+	puts("Meu Mantra: Não sei diferenciar teimosia de persistência, esse é meu maoir defeito e qualidade\n")
+	
+	puts("201606840019 - Daniel Mateus Farias Ramos - http://lattes.cnpq.br/4437538133366758");
+	puts("Meu Mantra: Nunca troque o que mais quer na vida por aquilo que mais quer no momento. Momentos passam, a vida continua.\n")
 	
 	puts("201607040020- Felipe eduardo de Souza Reis - http://lattes.cnpq.br/8316822195641028");
 	puts("Meu mantra: De tudo o que se deve guardar, guarda o teu coração.\n");
